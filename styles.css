@@ -8,6 +8,10 @@ body{
 }
 
 #list{
-	display : inline;
+	list-style : none;
+}
+
+li{
 	margin-left : 1rem;
+	display : inline;
 }
