@@ -1,7 +1,4 @@
 /*  your css code here. If applicable */
-body{
-	position : relative;
-}
 #navbar{
 	background-color : #D3D3D3;
 	padding : 10px;
@@ -12,6 +9,6 @@ body{
 }
 
 li{
-	margin-left : 1rem;
+	margin-right : 1rem;
 	display : inline;
 }
